@@ -19,3 +19,10 @@ This is the repo for Sound-VECaps, a large-scale audio-caption dataset.
     - A version that exclude all the visual-only contents (AudioCaps-E_audio.csv).
    
 All the dataset can be download [here](https://github.com/haoheliu/AudioLDM-training-finetuning).
+
+## Audio generation system
+Coming soon
+
+
+## Audio retrieval system
+Coming soon
