@@ -19,7 +19,7 @@ For more details, please refer to the paper [IMPROVING AUDIO GENERATION WITH VIS
     - A full version including visual and audio information (AudioCaps-E_full.csv).
     - A version that excludes all the visual-only contents (AudioCaps-E_audio.csv).
    
-All the datasets can be downloaded from [Zenodo]([https://github.com/haoheliu/AudioLDM-training-finetuning](https://zenodo.org/)) and [HuggingFace]([https://github.com/haoheliu/AudioLDM-training-finetuning](https://huggingface.co/datasets))
+All the datasets can be downloaded from [Zenodo](https://zenodo.org/) and [HuggingFace](https://huggingface.co/datasets)
 
 ## Audio generation system
 Coming soon
