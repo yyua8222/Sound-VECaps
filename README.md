@@ -1,6 +1,6 @@
 # Sound-VECaps
 
-[![arXiv](https://img.shields.io/badge/arXiv-2308.05734-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2308.05734)  [![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://audioldm.github.io/audioldm2/)  [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/datasets)  
+[![arXiv](https://img.shields.io/badge/arXiv-2308.22222-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2308.05734)  [![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://audioldm.github.io/audioldm2/)  [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue)](https://huggingface.co/datasets)  
 
 This is the repo for Sound-VECaps, a large-scale audio-caption dataset. 
 For more details, please refer to the paper [IMPROVING AUDIO GENERATION WITH VISUAL ENHANCED CAPTION](https://github.com/haoheliu/AudioLDM-training-finetuning)
