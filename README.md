@@ -1,6 +1,6 @@
 # Sound-VECaps
 
-[![arXiv](https://img.shields.io/badge/arXiv-2308.05734-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2308.05734)  [![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://audioldm.github.io/audioldm2/)  [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/haoheliu/audioldm2-text2audio-text2music)  
+[![arXiv](https://img.shields.io/badge/arXiv-2308.05734-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2308.05734)  [![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://audioldm.github.io/audioldm2/)  [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/datasets)  
 
 This is the repo for Sound-VECaps, a large-scale audio-caption dataset. 
 For more details, please refer to the paper [IMPROVING AUDIO GENERATION WITH VISUAL ENHANCED CAPTION](https://github.com/haoheliu/AudioLDM-training-finetuning)
@@ -19,7 +19,7 @@ For more details, please refer to the paper [IMPROVING AUDIO GENERATION WITH VIS
     - A full version including visual and audio information (AudioCaps-E_full.csv).
     - A version that excludes all the visual-only contents (AudioCaps-E_audio.csv).
    
-All the datasets can be downloaded from [Zenodo](https://github.com/haoheliu/AudioLDM-training-finetuning) and [HuggingFace](https://github.com/haoheliu/AudioLDM-training-finetuning)
+All the datasets can be downloaded from [Zenodo]([https://github.com/haoheliu/AudioLDM-training-finetuning](https://zenodo.org/)) and [HuggingFace]([https://github.com/haoheliu/AudioLDM-training-finetuning](https://huggingface.co/datasets))
 
 ## Audio generation system
 Coming soon
