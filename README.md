@@ -4,7 +4,7 @@
 
 This is the repo for Sound-VECaps, a large-scale audio-caption dataset. 
 
-For more details, please refer to the paper [SOUND-VECAPS: IMPROVING AUDIO GENERATION WITH VISUAL ENHANCED CAPTION](https://github.com/haoheliu/AudioLDM-training-finetuning)
+For more details, please refer to the paper [IMPROVING AUDIO GENERATION WITH VISUAL ENHANCED CAPTION](https://github.com/haoheliu/AudioLDM-training-finetuning)
 
 <hr>
 
