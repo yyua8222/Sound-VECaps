@@ -1,6 +1,6 @@
 # Sound-VECaps
 
-[![arXiv](https://img.shields.io/badge/arXiv-2308.22222-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2308.05734)  [![githubio](https://img.shields.io/badge/GitHub.io-Caption_Samples-blue?logo=Github&style=flat-square)](https://yyua8222.github.io/Sound-VECaps-demo/)  [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.12606207.svg)](https://doi.org/10.5281/zenodo.12606207)
+[![arXiv](https://img.shields.io/badge/arXiv-2308.22222-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2308.05734)  [![githubio](https://img.shields.io/badge/GitHub.io-Caption_Samples-blue?logo=Github&style=flat-square)](https://yyua8222.github.io/Sound-VECaps-demo/)  [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.12606207.svg)](https://zenodo.org/records/12606207)
 
 This is the repo for Sound-VECaps, a large-scale audio-caption dataset. 
 
