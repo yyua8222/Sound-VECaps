@@ -1,10 +1,11 @@
 # Sound-VECaps
 
-[![arXiv](https://img.shields.io/badge/arXiv-2308.22222-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2308.05734)  [![githubio](https://img.shields.io/badge/GitHub.io-Caption_Samples-blue?logo=Github&style=flat-square)](https://yyua8222.github.io/Sound-VECaps-demo/)  [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.12606207.svg)](https://zenodo.org/records/12606207)
+[![arXiv](https://img.shields.io/badge/arXiv-2407.04416-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2407.04416)  [![githubio](https://img.shields.io/badge/GitHub.io-Caption_Samples-blue?logo=Github&style=flat-square)](https://yyua8222.github.io/Sound-VECaps-demo/)  [![DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.12606207-blue)](https://zenodo.org/record/12606207)
+
 
 This is the repo for Sound-VECaps, a large-scale audio-caption dataset. 
 
-For more details, please refer to the paper [IMPROVING AUDIO GENERATION WITH VISUAL ENHANCED CAPTION](https://github.com/haoheliu/AudioLDM-training-finetuning)
+For more details, please refer to the paper [IMPROVING AUDIO GENERATION WITH VISUAL ENHANCED CAPTION](https://arxiv.org/abs/2407.04416)
 
 <hr>
 
